@@ -1,42 +1,47 @@
 ---
-title: "Thomas Rose"
+title: "Dominik Eitel"
 about:
   id: template-area
-  template: jolla
+  template: solana
   image: profile.png
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.de
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://eiteldo.github.io
 ---
-
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
-
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+Material scientist at TH Nürnberg working on structural analysis of modified titanium dioxide.
 
+## Education
+
+Technische Hochschule Nürnberg Georg-Simon-Ohm | Nürnberg, Germany
+M.Sc. Master of applied research in engineering science | Date
+
+test
+B.Eng.s | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Dominik Eitel
+Guntherstraße 45
+90461 Nürnberg
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 16090282771
+E-Mail: dominikeitel@icloud.com
 
 ## Privacy
 
