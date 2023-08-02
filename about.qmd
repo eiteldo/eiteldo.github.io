@@ -3,7 +3,7 @@ title: "Dominik Eitel"
 about:
   id: template-area
   template: solana
-  image: profile.png
+  image: Win_Dominik.jpg
   links:
     - icon: linkedin
       text: LinkedIn
