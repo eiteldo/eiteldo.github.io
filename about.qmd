@@ -15,21 +15,62 @@ about:
 
 :::{#template-area}
 
-Material scientist at TH Nürnberg working on structural analysis of modified titanium dioxide.
+## Persönliche Daten:  
+  Geburtstag:09.02.1996  
+  Geburtsort:Fürth  
+   
+## Berufserfahrung  
+03/2021–aktuell Georg-Simon-Ohm Technische Hochschule, Nürnberg, Wissenschaftlicher Mitarbeiter mit dem Ziel der Promotion  
+Formation and stabilisation mechanisms of defects in carbon-doped and self-doped titanate nanotubes (DFG):  
+- Forschung an Bandlücken und Strukturen kohlenstoffdotierter Titanoxidverbindungen mittels UV-Vis, Röntgenbeugung und Rasterlektronenmikroskopie  
+- Planung und Umsetzung eines neuen nass-chemischen Labors für Materialsynthese in Kooperation mit MAN (Campus Future Driveline)  
+- Betreuung wissenschaftlicher Arbeiten (Bachelorarbeiten, Masterarbeiten)  
+  
+03/2019–07/2020 Georg-Simon-Ohm Technische Hochschule, Nürnberg, Wissenschaftlicher Mitarbeiter  
+Untersuchung der Methoden für eine Hochskalierung des Verfahrens zur Herstellung von kohlenstoffhaltigen Titanoxid-Nanoröhren:  
+- Charakterisierung von Dispersionen für die Synthese  
+- Untersuchung unterschiedlicher Herstellungsmethoden von kohlenstoffhaltigen Titanoxid Nanoröhren  
+- Charakterisierung der Nanoröhren mittels Rasterelektronenmikroskopie, Röntgenbeugung und Thermogravimetrie  
+  
+09/2018–02/2019 Fraunhofer HTL, Bayreuth,Bachelorarbeit  
+Entwicklung eines Zweischichtsystems als Environmental Barrier Coating für SiC/SiC:  
+- Beschichtung von SiC/SiC Proben mit Environmental Barrier Coatings  
+- Charakterisierung der Proben mittels Thermooptischer Messanlage, Rasterelektronenmikroskopie und Röntgenbeugung  
+  
+08/2017–01/2018 SYNOVA MMC, Tokyo, Praktikum  
+Bearbeitung von Halbleitermaterialien mit wasserstrahlgeführtem UV Laser:  
+- Aufbau eines optischen Tisches  
+- Justage des Laserstrahls in einen Hochdruckwasserstrahl  
+- Programmierung des Positioniertisches für das Verfahren der Proben  
+- Analyse von Schnitten in Wafern und Halbleitermaterialien  
+  
 
-## Education
+11/2014–07/2017 Institut für Lerninnovation, Fürth, Studentische Hilfskraft  
+Verantwortlich für Softwarewartung sowie Aufbau und Reparaturen von Computersystemen  
+05/2013–08/2014 Firma Heussinger GmbH, Nürnberg, Nebenjob  
+Verarbeiten von thermo- und duroplastischen Kunststoffen und Auswertung von Testserien  
+  
 
-Technische Hochschule Nürnberg Georg-Simon-Ohm | Nürnberg, Germany  
-M.Sc. Master of applied research in engineering science | Date  
+## Präsentationen und Publikationen  
+### Publikationen  
+2023 D. Eitel, J. Graml, J.Hoppe, M. Kaliwoda, M. Hornfeck, U. Helbig, NanoSelect.2023,1, Synthesis and Structure of Carbon-doped TiO2 by Carbothermal Treatment   
 
-test  
-B.Eng.s | Sept 2007 - June 2011  
+### Präsentationen  
+2021 Correlation of carbon content and electrical conductivity of nanomaterials for PEM fuel cells, NanoCarbon Annual Conference 2021, Online  
+2022 Optical Band Gap of Carbon Modified TiO2, Carbon Chemistry and Materials 2022, Rom  
+2023 Carbon-doped TiO2 as Catalyst Support for PEM Fuel-Cells, NanoCarbon Annual Conference 2021, Würzburg  
+  
 
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present  
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018  
+##Ausbildung
+2019–2021 Masterstudium, Georg-Simon-Ohm Technische Hochschule, Nürnberg  
+Master of Applied Research in Engineering Science, M.Sc. 1,2  
+2016–2019 Bachelorstudium, Georg-Simon-Ohm Technische Hochschule, Nürnberg  
+Werkstofftechnik B.Eng. 2,0  
+2014–2016 Bachelorstudium, Friedrich-Alexander Universität, Erlangen-Nürnberg  
+Materialwissenschaft und Werkstofftechnik  
+2006–2014 Gymnasium, Wolfgang-Borchert Gymnasium, Langenzenn  
+Allgemeine Hochschulreife  
+   
 :::
 
 ## Legal Notice
